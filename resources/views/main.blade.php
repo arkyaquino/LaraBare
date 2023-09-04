@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>This is the Main Page</h1>
+    
     <a href="/">Go to Welcome page</a>
 </body>
 </html>
